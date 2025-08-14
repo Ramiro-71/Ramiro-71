@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Ramiro, a college student at UPC (Universidad Peruana de Ciencias Aplicadas) currently in my 8th semester pursuing a degree in Software Engineering. I'm actively seeking pre-professional internships, eager to learn and contribute in any way possible.<br><br>🚀 I'm enthusiastic about gaining real-world experience and applying the skills I've acquired during my academic journey.<br><br>🌱 I'm committed to continuous learning and staying updated with the latest industry trends.<br>💡
+👋 Hello! I'm Ramiro, a college student at UPC (Universidad Peruana de Ciencias Aplicadas) currently in my 8th semester pursuing a degree in Software Engineering. I'm actively seeking pre-professional internships, eager to learn and contribute in any way possible.<br><br>🚀 I'm enthusiastic about gaining real-world experience and applying the skills I've acquired during my academic journey.<br><br>🌱 I'm committed to continuous learning and staying updated with the latest industry trends.<br>
 
 
 ## 🌐 Socials:
